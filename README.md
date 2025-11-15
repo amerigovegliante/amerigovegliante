@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Amerigo!
 
-<!--
-**amerigovegliante/amerigovegliante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | AI & Machine Learning Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+
+- 🏫 **University**: Computer Science at University of Padua
+- 🎯 **Specializing in**: Artificial Intelligence, Machine Learning, Deep Learning
+- 🔬 **Focus Areas**: 
+  - Computer Vision
+  - Natural Language Processing (NLP)
+  - Deep Learning Architectures
+  - Machine Learning Engineering
+
+---
+
+### 🛠️ Technical Skills
+```python
+programming_languages = ["Python", "Java", "C++", "SQL"]
+ml_frameworks = ["PyTorch", "TensorFlow", "Scikit-learn", "Keras"]
+data_science = ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
+tools = ["Git", "Docker", "Jupyter", "VS Code"]
+```
