@@ -2,24 +2,20 @@
 
 **Computer Science Student | AI & Machine Learning Enthusiast**
 
----
+I'm passionate about artificial intelligence, currently diving deep into machine learning. I'm building my expertise in Python, PyTorch, and TensorFlow while working on university projects and personal ML experiments.
 
-## 🎓 About Me
-
-- 🏫 **University**: Computer Science at University of Padua
-- 🎯 **Specializing in**: Artificial Intelligence, Machine Learning, Deep Learning
-- 🔬 **Focus Areas**: 
-  - Computer Vision
-  - Natural Language Processing (NLP)
-  - Deep Learning Architectures
-  - Machine Learning Engineering
+You can see more of myself [here](https://amerigovegliante.github.io/).
 
 ---
 
-### 🛠️ Technical Skills
-```python
-programming_languages = ["Python", "Java", "C++", "SQL"]
-ml_frameworks = ["PyTorch", "TensorFlow", "Scikit-learn", "Keras"]
-data_science = ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
-tools = ["Git", "Docker", "Jupyter", "VS Code"]
-```
+## 🧑‍💻 Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,matlab,postgres,html,css,js,php&theme=dark)](https://skillicons.dev)
+## 🔧 Frameworks
+[![My Skills](https://skillicons.dev/icons?i=qt,react,pytorch,sklearn,tensorflow&theme=dark)](https://skillicons.dev)
+## ⛏️​ Tools
+[![My Skills](https://skillicons.dev/icons?i=figma,git,githubactions,godot&theme=dark)](https://skillicons.dev)
+## 🖥️​ Operating System
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,arch,debian,windows&theme=dark)](https://skillicons.dev)
+
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amerigovegliante&show_icons=true&theme=tokyonight)
