@@ -14,7 +14,7 @@ You can see more of myself [here](https://amerigovegliante.github.io/).
 [![My Skills](https://skillicons.dev/icons?i=qt,react,pytorch,sklearn,tensorflow&theme=dark)](https://skillicons.dev)
 ## ⛏️​ Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,git,githubactions,godot&theme=dark)](https://skillicons.dev)
-## 🖥️​ Operating System
+## 🖥️​ Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,arch,debian,windows&theme=dark)](https://skillicons.dev)
 
 ## Github Stats
